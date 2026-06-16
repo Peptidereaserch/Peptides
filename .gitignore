@@ -1,1 +1,4 @@
 .env
+Data/Image_Data
+*.pdb
+Notebooks/Data

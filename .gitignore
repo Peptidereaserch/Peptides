@@ -2,3 +2,5 @@
 Data/Image_Data
 *.pdb
 Notebooks/Data
+*.joblib
+Old Dump/Peptide/Methods/*.joblib
